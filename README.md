@@ -1,5 +1,4 @@
 # parser_wildberries
-Parser Wildberries
 
 Парсер Wildberries, версия 1.0
 
